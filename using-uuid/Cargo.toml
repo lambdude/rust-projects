@@ -1,0 +1,10 @@
+[package]
+name = "using-uuid"
+version = "0.1.0"
+authors = ["Ian Johnson <lambdude@protonmail.com>"]
+
+[dependencies]
+
+[dependencies.uuid]
+version = "0.5.1"
+features = ["v4"]
