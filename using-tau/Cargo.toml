@@ -1,0 +1,8 @@
+[package]
+name = "using-tau"
+version = "0.1.0"
+authors = ["Ian Johnson <lambdude@protonmail.com>"]
+
+[dependencies]
+tau = "1.0.4"
+num-complex = "0.1.40"
