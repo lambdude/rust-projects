@@ -1,0 +1,8 @@
+[package]
+name = "using-csv"
+version = "0.1.0"
+authors = ["Ian Johnson <lambdude@protonmail.com>"]
+
+[dependencies]
+csv = "0.15.0"
+rustc-serialize = "0.3.24"

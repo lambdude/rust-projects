@@ -1,0 +1,6 @@
+[package]
+name = "reverse-a-string"
+version = "0.1.0"
+authors = ["Ian Johnson <lambdude@protonmail.com>"]
+
+[dependencies]
