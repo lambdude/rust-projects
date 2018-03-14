@@ -1,3 +1,3 @@
 # Rust Projects
 
-This repository hold many small Rust projects.
+This repository holds many small Rust projects.
