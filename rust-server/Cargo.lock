@@ -75,7 +75,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-srv"
+name = "rust-server"
 version = "0.1.0"
 dependencies = [
  "simple-server 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
