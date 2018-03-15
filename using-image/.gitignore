@@ -1,0 +1,6 @@
+/target/
+**/*.rs.bk
+edgy_lena.png
+flipped_lena.png
+noisy_lena.png
+thumb_lena.png

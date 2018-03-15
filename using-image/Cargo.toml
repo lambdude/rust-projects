@@ -1,0 +1,8 @@
+[package]
+name = "using-image"
+version = "0.1.0"
+authors = ["Ian Johnson <lambdude@protonmail.com>"]
+
+[dependencies]
+image = "0.14.0"
+rand = "0.3.15"
