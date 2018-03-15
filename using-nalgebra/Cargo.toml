@@ -1,0 +1,8 @@
+[package]
+name = "using-nalgebra"
+version = "0.1.0"
+authors = ["Ian Johnson <lambdude@protonmail.com>"]
+
+[dependencies]
+nalgebra = "0.12.3"
+tau = "1.0.4"
